@@ -1,15 +1,23 @@
-### Hi there 👋
+### --🫀 romannticize your life.
 
-**manusuominski/manusuominski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Conheça um pouco sobre mim 
 
-Here are some ideas to get you started:
+ Meu nome é Emanuelli Suominski 🤍
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- Estudo no Colégio Estadual do Campo Alfredo Greipel Junior
+
+- Estou estudando na [Alura](https://www.alura.com.br)
+
+- Utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos
+
+- Meu instagram para contato:
+- ### @Manusuominski
+
+
+
+
+![](https://media.tenor.com/ll4wy1qTCYkAAAAC/love-heart-love.gif)
+
+ 
+
 
