@@ -1,4 +1,4 @@
-### --🫀 romannticize your life.
+### -- 🫀 romannticize your life.
 
 ### Conheça um pouco sobre mim 
 
